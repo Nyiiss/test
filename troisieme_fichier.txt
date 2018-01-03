@@ -1,0 +1,4 @@
+ceci est le premier fichier. On fait une modification.
+et on ajoute une ligne.
+
+Modification de cette ligne dans branche2
