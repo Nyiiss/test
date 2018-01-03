@@ -1,1 +1,2 @@
-ceci est le premier fichier
+ceci est le premier fichier. On fait une modification.
+et on ajoute une ligne.
